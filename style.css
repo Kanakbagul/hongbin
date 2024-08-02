@@ -1,7 +1,10 @@
+/* Add custom font */
 @font-face {
     font-family: Hongbin;
     src: url(font.otf);
 }
+
+/* Reset  code ( shortcut manuaally created) */
 *{
     margin: 0;
     padding: 0;
@@ -16,6 +19,7 @@ main{
     background-repeat: no-repeat;
 }
 
+/* Add color overlay */
 .overlay {
     height: 100%;
     width: 100%;
